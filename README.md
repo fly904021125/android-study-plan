@@ -7,3 +7,5 @@
 3.Python
 
 4.leetcode  lintcode(待定，刷题专用，看心情）
+
+5.函数式编程 ：λ演算、Haskell编程语言、尾递归  http://www.ruanyifeng.com/blog/2017/02/fp-tutorial.html
